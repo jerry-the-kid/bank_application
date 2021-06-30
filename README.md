@@ -13,5 +13,5 @@
 <br>
 <br>
 <h4><b>Account for testing purpose :</b></h4> 
-<p><b> Account 1: </b> account: js, pin: 1111</p>
-<p><b> Account 2: </b> account: jd, pin: 2222</p>
+<p><b> Account 1: </b>  js, <b>pin :</b> 1111</p>
+<p><b> Account 2: </b>  jd, <b>pin :</b> 2222</p>
