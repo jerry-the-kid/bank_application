@@ -15,7 +15,7 @@ const account1 = {
   interestRate: 1.2, // %
   pin: 1111,
 
-  movementsDates: [
+  movementsDates: [ 
     '2019-11-18T21:31:17.178Z',
     '2019-12-23T07:42:02.383Z',
     '2020-01-28T09:15:04.904Z',
